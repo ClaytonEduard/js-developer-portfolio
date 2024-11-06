@@ -36,7 +36,6 @@ Este é um projeto de estudo desenvolvido com HTML, CSS e JavaScript.
 # 🌟Funcionalidades
 
 - Consumo da API: Utiliza o método <code>fetch()</code>para obter dados da [Github](https://claytoneduard.github.io/js-developer-portfolio/).
-- Paginação contínua: Um único botão permite carregar mais Pokémon na mesma página, sem necessidade de redirecionamento.
 - Design responsivo: Interface ajustada para uma boa visualização em diferentes dispositivos.
 
 # 🛠️Tecnologias Utilizadas
